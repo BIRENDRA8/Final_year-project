@@ -79,7 +79,7 @@ We welcome contributions to improve the mango leaf disease detection system. Ple
 
 ## 📄 License
 
-This project is licensed under the UEM.
+This project is licensed under the UEM (MIT License).
 
 ## 🙏 Acknowledgments
 
