@@ -1,7 +1,7 @@
 # 🌿 Mango Leaf Disease Detection System 🥭
 
 ## 🌟 Overview
-
+## Hosting : https://solveit-ai.netlify.app/
 This innovative AI-powered system provides advanced disease detection for mango leaves using state-of-the-art deep learning technology. Designed to address critical challenges in agricultural disease management, our solution offers rapid, accurate, and objective diagnosis of mango leaf conditions.
 
 ## 🔍 Key Features
